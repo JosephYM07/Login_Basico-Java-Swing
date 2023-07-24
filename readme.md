@@ -22,7 +22,7 @@ El formulario de información muestra la información del usuario una vez que ha
 - Cargar datos de usuarios desde un archivo (`usuarios.dat`) al iniciar el programa. Esto permite que los usuarios registrados previamente se carguen automáticamente cuando se inicia el programa.
 - Guardar nuevos registros de usuarios en el archivo `usuarios.dat` después de que se haya realizado el registro exitosamente.
 - Validar las credenciales ingresadas en el formulario de login para permitir el inicio de sesión solamente a usuarios registrados.
-- Utilizar una clase `Usuario` en el paquete "datos" para representar los datos de cada usuario, que incluye el nombre de usuario, la contraseña y los nombres completos.
+- Utilizar una clase `Usuario` en el paquete "Class" para representar los datos de cada usuario, que incluye el nombre de usuario, la contraseña y los nombres completos.
 
 El programa utiliza la interfaz gráfica de usuario proporcionada por la biblioteca Swing, lo que permite una interacción intuitiva y amigable con los usuarios.
 
