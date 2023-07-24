@@ -8,6 +8,7 @@ public class Informacion {
     private JLabel MostrarNombreRegistrado;
     private JButton cerrarSesionButton;
     JPanel Informacion;
+    private JLabel informacion;
     private String usuario;
 
     public Informacion(String username) {
